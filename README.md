@@ -1,7 +1,7 @@
 ## Hi, I'm David :wave: :man_technologist:
 I'm a computer science student and sofware developer from Vancouver, Canada.
 
-I'm driven by curiosity and always looking for new things to learn.
+I'm always looking for new challenges and things to learn. 
 
 Currently I'm,
 - :school_satchel: Studying computer science at SFU
