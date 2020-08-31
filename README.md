@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi, I'm David 👋 :man_technologist: 
 
-
-Here are some ideas to get you started:
+I'm a sofware developer from Vancouver, Canada.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
