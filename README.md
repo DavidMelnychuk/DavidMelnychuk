@@ -1,4 +1,4 @@
-### Hi, I'm David :wave: :man_technologist:
+# Hi, I'm David :wave: :man_technologist:
 I'm a computer science student and sofware developer from Vancouver, Canada.
 
 I'm always looking for new challenges and things to learn.
