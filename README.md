@@ -14,4 +14,5 @@ Currently I'm,
 - :globe_with_meridians: [davidmelnychuk.com](https://davidmelnychuk.com/)
 
 Thanks for reading, enjoy your day!
+
 ![](https://miro.medium.com/max/496/0*RAgz3Z63hGOJM4D-)
