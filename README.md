@@ -1,4 +1,3 @@
-![](https://github.com/DavidMelnychuk/DavidMelnychuk/blob/master/readme.gif)
 ### Hi, I'm David :wave: :man_technologist: 
 I'm a computer science student and sofware developer from Vancouver, Canada.
 
@@ -15,5 +14,6 @@ Currently I'm,
 - :globe_with_meridians: [davidmelnychuk.com](https://davidmelnychuk.com/)
 
 Thanks for reading, enjoy your day!
-
+<--
 ![](https://miro.medium.com/max/496/0*RAgz3Z63hGOJM4D-)
+-->
