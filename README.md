@@ -1,3 +1,4 @@
+![](https://github.com/DavidMelnychuk/DavidMelnychuk/blob/master/readme.gif)
 ### Hi, I'm David :wave: :man_technologist: 
 I'm a computer science student and sofware developer from Vancouver, Canada.
 
