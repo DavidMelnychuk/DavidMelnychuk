@@ -1,7 +1,5 @@
 ## Hi, I'm David :wave: :man_technologist:
-I'm a computer science student and sofware developer. 
-
-I'm always looking for new challenges and things to learn. 
+I'm a computer science student and software developer. I'm always looking for new challenges and things to learn. 
 
 Currently I'm,
 - :school_satchel: Studying computer science at SFU
@@ -11,6 +9,5 @@ Currently I'm,
 
 ## Get in touch
 - :envelope: david@davidmelnychuk.com
-- :globe_with_meridians: [davidmelnychuk.com](https://davidmelnychuk.com/)
 
 Thanks for reading, enjoy your day!
