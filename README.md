@@ -4,7 +4,6 @@ I'm a computer science student and software developer. I'm always looking for ne
 Currently I'm,
 - :school_satchel: Studying computer science at SFU
 - :briefcase: Working as a full stack developer
-- :books: Learning React and Express
 - :runner: Trying to stay healthy 
 
 ## Get in touch
