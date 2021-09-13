@@ -7,6 +7,6 @@ Currently I'm,
 - :runner: Trying to stay healthy 
 
 ## Get in touch
-- :envelope: david@davidmelnychuk.com
+- :envelope: davidm9779@gmail.com
 
 Thanks for reading, enjoy your day!
