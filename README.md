@@ -1,5 +1,3 @@
-![Retrowave_loop](https://user-images.githubusercontent.com/17629911/229330102-75e60e91-71dc-4e14-b3a7-a720e5666111.gif)
-
 # Hi there, I'm David 👋 👨‍💻
 
 ## I'm a software developer from Vancouver, Canada. 
